@@ -1,2 +1,2 @@
 connectionStrings:
-  qhatuConnection: Data Source=local-mssql; Initial Catalog=qhatu; user id=sa; password=NewHorizons_2023@
+  qhatuConnection: server=local-mysql; database=qhatu; port=3306; user=root; password=NewHorizons_2023@
