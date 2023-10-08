@@ -1,5 +1,5 @@
 connectionStrings:
-  qhatuConnection: server=localhost; database=qhatu; port=3306; user=root; password=NewHorizons_2023@
+  qhatuConnection: server=local-mysql; database=qhatu; port=3306; user=root; password=NewHorizons_2023@
 rabbitMqSettings:
   hostName: rabbitmq-qhatu
   username: usr_admin
